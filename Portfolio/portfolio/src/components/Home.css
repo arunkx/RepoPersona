@@ -1,0 +1,17 @@
+.jumbotron{
+    margin-bottom: 4em;
+    background-color: aliceblue
+
+}
+h2{
+    font-family: 'Courgette', cursive;
+}
+
+h4{
+    font-family: 'Sanchez', serif;
+}
+.spclFont{
+    fontSize: 20px;
+    font-family: 'Philosopher', sans-serif;
+    
+}
